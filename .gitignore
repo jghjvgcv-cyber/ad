@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.env
+.venv/
+venv/
+env/
+*.sqlite3
+
+# Data / outputs
+data/
+outputs/
+media/renders/
+
+# IDE
+.vscode/
+.idea/
+
+# Model checkpoints
+checkpoints/
